@@ -324,19 +324,19 @@ The following resources can be useful when planning a new study or revising prac
 
 ## Estonia
 
-[https://covid19dataportal.ee/](https://covid19dataportal.ee/)
-[https://koroona.ut.ee/](https://koroona.ut.ee/)
+- [https://covid19dataportal.ee/](https://covid19dataportal.ee/) 
+- [https://koroona.ut.ee/](https://koroona.ut.ee/)
 
 ## Norway
 
-[ELIXIR Norway Research support](https://elixir.no/helpdesk)
-[ELIXIR Norway COVID-19 resources](https://elixir.no/corona)
-[ELIXIR Norway SARS-Cov-2 database](https://covid19.sfb.uit.no/)
+- [ELIXIR Norway Research support](https://elixir.no/helpdesk)
+- [ELIXIR Norway COVID-19 resources](https://elixir.no/corona)
+- [ELIXIR Norway SARS-Cov-2 database](https://covid19.sfb.uit.no/)
 
 ## Sweden
 
-[Swedish COVID-19 Data Portal Support Services](https://www.covid19dataportal.se/support_services/)
-[SciLifeLab Data Guidelines](https://scilifelab-data-guidelines.readthedocs.io/en/latest/docs/covid-19/index.html)
+- [Swedish COVID-19 Data Portal Support Services](https://www.covid19dataportal.se/support_services/)
+- [SciLifeLab Data Guidelines](https://scilifelab-data-guidelines.readthedocs.io/en/latest/docs/covid-19/index.html)
 
 ## NeIC PaRI case study
 
